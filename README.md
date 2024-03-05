@@ -1,26 +1,5 @@
-# Verilog Deployment
+# Verilog Courses
 
-This project has the initiative to provide an environment for rapid development of HDL.
+Repository for code developed by me during RTL Design and Verification courses.
 
-## Features
-
-- Linters
-- Formatters
-- Documentation
-- Netlist viewer
-- Waveform viewer
-
-## Getting Started
-
-You just need to have installed on your machine:
-
-- Docker
-- Vscode with `ms-vscode-remote.remote-containers` extension
-
-Open the vscode and Build Container Development
-
-![](assets/instruction.png)
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests for bug fixes, enhancements, or new features.
+Environment based on Taffarel's Verilog Development Template: [https://github.com/taffarel55/verilog-development](https://github.com/taffarel55/verilog-development)
