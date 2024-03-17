@@ -2,6 +2,7 @@ build/
 venv/
 *.out
 *.vcd
+*.vvp
 
 vunit_out/
 sim_build/
