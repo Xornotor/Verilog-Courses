@@ -26,7 +26,7 @@ module priority7 ( y, a ) ;
   input  wire [7:1] a ;
 
   always @(a)
-    casex(a)
+    casez(a)
       7'b??????1: y = 3'd1;
       7'b?????10: y = 3'd2;
       7'b????100: y = 3'd3;
